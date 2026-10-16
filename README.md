@@ -7,9 +7,6 @@
 </p>
 
 <p align="center">
-  <a href="https://om-cursor.vercel.app/">
-    <img src="https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
   <img src="https://img.shields.io/badge/Frontend-React.js-blue?style=for-the-badge&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/Styling-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Experience-Interactive-purple?style=for-the-badge"/>
@@ -213,8 +210,4 @@ Relax demonstrates creative frontend development through:
   <b>🕉️ Pause. Breathe. Feel the Divine. 🙏</b>
 </p>
 
-<h2 align="center">📜 License</h2>
-
-<p align="center">
-  Choose a license that matches your distribution intentions. If you choose MIT, include the corresponding LICENSE file in your repository.
-</p>
+<h2 align="center">📜 Licensed</h2>
