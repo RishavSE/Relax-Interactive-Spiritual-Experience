@@ -1,97 +1,195 @@
-# Om in Motion
+# 🕉️ Relax — Interactive Spiritual Experience
 
-A small React and Vite experience: a glowing Om symbol follows mouse, pen, and touch input against a black background.
+<h1 align="center">🕉️ Relax 🙏</h1>
 
-## Run locally
+<p align="center">
+  <b>Pause. Breathe. Feel the Divine.</b>
+</p>
 
-```sh
-npm install
-npm run dev
-```
+<p align="center">
+  <a href="https://om-cursor.vercel.app/">
+    <img src="https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <img src="https://img.shields.io/badge/Frontend-React.js-blue?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Styling-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Experience-Interactive-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Deployment-Vercel-black?style=for-the-badge&logo=vercel&logoColor=white"/>
+</p>
 
-Create a production build with `npm run# Om in Motion
+<p align="center">
+  An immersive devotional web experience featuring spiritual cursor animations, divine symbols, theme-specific audio, and interactive experiences inspired by Shiv, Ram, and Radha Krishna.
+</p>
 
-A small React and Vite interactive experience featuring a glowing **Om (ॐ) symbol** that responds to mouse, pen, and touch input against a black background.
+<h2 align="center">📌 Overview</h2>
 
-## ✨ Features
+Relax is a creative, interactive spiritual website that transforms ordinary cursor movement into a visually engaging devotional experience.
 
-* Interactive glowing Om symbol
-* Supports mouse, pen, and touch input
-* Responsive design
-* Built with React and Vite
-* Dark immersive background
-* Responsive background image served locally
+As visitors move their cursor, spiritual elements such as **ॐ (Om), Radha, and Ram** follow its path, creating a distinctive visual interaction.
 
-## 🛠️ Tech Stack
+The experience also incorporates devotional audio associated with the selected spiritual theme, bringing together motion, sound, and visual storytelling in a personalized digital environment.
 
-* React
-* Vite
-* JavaScript / TypeScript
-* CSS
+With Shiv selected as the default theme and options to explore Ram and Radha Krishna, Relax combines creative frontend development with a peaceful, devotional atmosphere.
 
-## 🚀 Run Locally
+<h2 align="center">🧠 Vision</h2>
 
-Clone or download the project and install the dependencies:
+<p align="center">
+  <b>Transform every interaction into a moment of spiritual connection.</b>
+</p>
 
-```sh
-npm install
-```
+Relax aims to:
 
-Start the development server:
+- Create an immersive digital devotional experience.
+- Combine spiritual symbolism with interactive animations.
+- Synchronize the experience with theme-specific devotional sounds.
+- Make spiritual exploration engaging and personalized.
+- Demonstrate the creative possibilities of modern frontend development.
 
-```sh
-npm run dev
-```
+<h2 align="center">✨ Platform Highlights</h2>
 
-To create a production build:
+✔ Interactive spiritual cursor-following effects  
+✔ Floating Om, Radha, and Ram elements  
+✔ Multiple devotional themes  
+✔ Theme-specific devotional audio  
+✔ Shiv selected as the default theme  
+✔ Dynamic visual and audio experience  
+✔ Immersive animations and spiritual aesthetics  
+✔ Responsive, modern web interface  
 
-```sh
-npm run build
-```
+<h2 align="center">🕉️ Spiritual Themes</h2>
 
-## 🖼️ Background Image
+Relax offers three devotional experiences, each with its own spiritual identity.
 
-The responsive background image is served locally from:
+### 🔱 Shiv Experience
 
-```text
-public/mahadev.jpeg
-```
+- Selected by default when the website opens.
+- Features an atmosphere inspired by Lord Shiva.
+- Incorporates Om-inspired cursor effects and associated audio.
 
-Make sure this file is present if you want the background to display correctly.
+### 🏹 Ram Experience
 
-## 📜 License
+- Offers a devotional atmosphere inspired by Lord Ram.
+- Features Ram-themed cursor-following elements.
+- Plays the corresponding devotional sound when selected.
 
-Copyright © 2026 Rishav Kumar Singh. All rights reserved.
+### 🦚 Radha Krishna Experience
 
-This project is provided for **personal learning, educational, and viewing purposes only**.
+- Creates an experience inspired by Radha and Krishna.
+- Features Radha-themed cursor-following elements.
+- Plays the corresponding devotional sound when selected.
 
-### You MAY:
+<h2 align="center">🖱️ Interactive Cursor Animation</h2>
 
-* View and study the source code.
-* Run the project locally for learning or educational purposes.
-* Modify the code for your own private learning and experimentation.
-* Use the project privately for non-commercial educational purposes.
+One of Relax's defining features is its spiritual cursor-following effect.
 
-### You MAY NOT:
+### Features
 
-* Use this project, its source code, design, animations, assets, or substantial portions of it for any **business or commercial purpose**.
-* Use this project on a **personal website, portfolio, resume website, blog, landing page, or other publicly accessible personal website**.
-* Publish or deploy a modified or unmodified version as part of your own website.
-* Sell, sublicense, redistribute, or commercially exploit the project or any derivative work.
-* Present the project or substantial portions of it as your own work.
-* Remove or alter the copyright and license notices.
+- **Om Cursor Effect:** Spiritual Om symbols appear along the cursor's path.
+- **Radha Cursor Effect:** Radha-themed text or elements follow cursor movement.
+- **Ram Cursor Effect:** Ram-themed elements create a dynamic visual trail.
+- **Motion-Based Interaction:** Cursor movement becomes part of the visual experience.
+- **Theme-Based Presentation:** The selected spiritual experience determines the associated visual atmosphere.
 
-Any use outside the permissions stated above requires **prior written permission from the copyright holder**.
+This feature transforms a standard browsing interaction into a distinctive, animated devotional experience.
 
-For permission requests, please contact the copyright holder through the contact information associated with this repository.
+<h2 align="center">🎵 Theme-Specific Audio Experience</h2>
 
-## ⚠️ Third-Party Assets
+Sound is an important part of the Relax experience.
 
-The `public/mahadev.jpeg` background image may be subject to separate copyright or usage restrictions. You are responsible for ensuring that you have the appropriate rights to use or redistribute any third-party assets included with this project.
+The website incorporates multiple devotional sounds associated with its spiritual themes.
 
-## 🙏 Purpose
+### Audio Features
 
-This project was created as an interactive frontend experiment and learning project using React and Vite.
- build`.
+- Theme-specific devotional audio.
+- Different sound experiences for Shiv, Ram, and Radha Krishna.
+- Audio that corresponds to the selected spiritual experience.
+- A more immersive combination of sound and visual interaction.
 
-The responsive background image is served locally from `public/mahadev.jpeg`.
+The goal is to make each theme feel distinct through its combination of spiritual visuals, cursor animations, and audio.
+
+<h2 align="center">🎨 Modern User Experience</h2>
+
+Relax combines devotional inspiration with interactive web design.
+
+### UI Highlights
+
+- Modern and immersive visual presentation.
+- Interactive theme selection.
+- Animated cursor-following effects.
+- Spiritual text and symbolic elements.
+- Theme-specific audio experiences.
+- Smooth and intuitive interactions.
+- Responsive layouts for different screen sizes.
+
+<h2 align="center">🧱 Tech Stack</h2>
+
+| Layer | Technology |
+|---|---|
+| Frontend | React.js |
+| Styling | CSS3 |
+| Animation | Cursor-following visual effects |
+| Audio | Theme-specific devotional sounds |
+| Deployment | Vercel |
+
+*Include additional libraries or animation technologies only if they are used in the implementation.*
+
+<h2 align="center">⚡ Development Highlights</h2>
+
+Relax demonstrates several creative frontend concepts:
+
+- Interactive cursor-based animations.
+- Dynamic theme selection and UI updates.
+- Theme-specific audio handling.
+- Component-based React development.
+- Motion-driven visual storytelling.
+- Combining sound and animation into a unified user experience.
+- Designing an unconventional, experience-focused web application.
+
+<h2 align="center">🚀 Future Enhancements</h2>
+
+- Add more spiritual themes and cursor effects.
+- Introduce customizable animation styles.
+- Provide audio controls for play, pause, and volume.
+- Add a reduced-motion accessibility option.
+- Optimize cursor animations for mobile and touch devices.
+- Improve audio transitions when switching themes.
+- Introduce meditation and relaxation features.
+
+<h2 align="center">🌐 Live Demo</h2>
+
+<p align="center">
+  <a href="https://om-cursor.vercel.app/">
+    <img src="https://img.shields.io/badge/Explore-Relax%20Experience-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>Move. Listen. Experience.</b>
+</p>
+
+<h2 align="center">👨‍💻 Developer</h2>
+
+<p align="center">
+  <b>Rishav Kumar Singh</b><br/>
+  Full-Stack Developer | Creative Frontend Developer<br/>
+  Interactive Web Experiences • Modern UI Development
+</p>
+
+<p align="center">
+  🌐 <a href="https://rishavkumar-portfolio.vercel.app/">Portfolio</a>
+</p>
+
+<h2 align="center">⭐ Final Thought</h2>
+
+<p align="center">
+  Relax explores how cursor movement, spiritual symbols, and devotional audio can transform a simple website into an immersive digital experience.
+</p>
+
+<p align="center">
+  <b>🕉️ Pause. Breathe. Feel the Divine. 🙏</b>
+</p>
+
+<h2 align="center">📜 License</h2>
+
+<p align="center">
+  Add an MIT License only if you intend to distribute the project under those terms and include a corresponding LICENSE file.
+</p>
